@@ -1,0 +1,14 @@
+﻿  data.cpp
+  main.cpp
+  ofApp.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+C:\Users\jmk-9\Documents\openFrameworks\apps\homework\hw7-myronkreuger\src\ofApp.h(30,14): error C2872: 'data': ambiguous symbol (compiling source file src\ofApp.cpp)
+C:\Users\jmk-9\Documents\openFrameworks\apps\homework\hw7-myronkreuger\src\data.h(11,7): message : could be 'data' (compiling source file src\ofApp.cpp)
+C:\Users\jmk-9\Documents\openFrameworks\apps\homework\hw7-myronkreuger\src\ofApp.h(30,14): message : or       'data' (compiling source file src\ofApp.cpp)
+C:\Users\jmk-9\Documents\openFrameworks\apps\homework\hw7-myronkreuger\src\ofApp.cpp(38,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jmk-9\Documents\openFrameworks\apps\homework\hw7-myronkreuger\src\ofApp.cpp(41,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jmk-9\Documents\openFrameworks\apps\homework\hw7-myronkreuger\src\ofApp.h(30,14): error C2872: 'data': ambiguous symbol (compiling source file src\main.cpp)
+C:\Users\jmk-9\Documents\openFrameworks\apps\homework\hw7-myronkreuger\src\data.h(11,7): message : could be 'data' (compiling source file src\main.cpp)
+C:\Users\jmk-9\Documents\openFrameworks\apps\homework\hw7-myronkreuger\src\ofApp.h(30,14): message : or       'data' (compiling source file src\main.cpp)
